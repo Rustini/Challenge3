@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+    <string name="batu2">batu2</string>
+    <string name="gunting4">gunting4</string>
+    <string name="kertas5">kertas5</string>
+    <string name="batu6">batu6</string>
+    <string name="kertas">Kertas</string>
+    <string name="gunting">Gunting</string>
+    <string name="batu">Batu</string>
+    <string name="pemain_1">Pemain 1</string>
+    <string name="com">COM</string>
+    <string name="gunting1">gunting1</string>
+    <string name="kertas3">kertas3</string>
+    <string name="Batu" />
+    <string name="Gunting" />
+</resources>
